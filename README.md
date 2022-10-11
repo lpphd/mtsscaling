@@ -34,8 +34,6 @@ the [UEA multivariate dataset collection](https://www.timeseriesclassification.c
 
 ## Results
 
-The experiment metrics can be found under [Results](Results/), in the format [model\_name]
-\_uea\_metrics\_[scaling\_method]
-\_[dimension].csv
+The experiment metrics can be found under [Results](Results/), in the format [model\_name]\_uea\_metrics\_[scaling\_method]\_[dimension].csv
 
 The baseline metrics are in the format [model\_name]\_uea\_metrics\_none.csv
