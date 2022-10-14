@@ -1,7 +1,7 @@
 # An Empirical Evaluation of Multivariate Time Series Classification with Input Transformation across Different Dimensions
 
-This repository contains the official implementation of the experiments described in "An Empirical Evaluation of
-Multivariate Time Series Classification with Input Transformation across Different Dimensions", accepted at ICMLA 2022 .
+This repository contains the official implementation of the experiments described in [An Empirical Evaluation of
+Multivariate Time Series Classification with Input Transformation across Different Dimensions](https://research.vu.nl/en/publications/an-empirical-evaluation-of-multivariate-time-series-classificatio), accepted at ICMLA 2022 .
 
 ## Requirements
 
